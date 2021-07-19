@@ -1,11 +1,11 @@
 # School_District_Analysis
 ### Overview of Project
 
-# The schoolboard has notified that data from the students_complete.csv has academic dishonesty. Reading and math grades for Thomas High School ninth graders appear to have been altered. The task is to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. After that, they want to repeat the school district analysis with the new dataset.
+- The schoolboard has notified that data from the students_complete.csv has academic dishonesty. Reading and math grades for Thomas High School ninth graders appear to have been altered. The task is to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. After that, they want to repeat the school district analysis with the new dataset.
 
 ## Results
 
-# It seems from the results that if you compare the results before and after excluding the dataset from ninth graders from Thomas High school, it seems to have altered the % passing math, % passing reading, and % overall passing. 
+- It seems from the results that if you compare the results before and after excluding the dataset from ninth graders from Thomas High school, it seems to have altered the % passing math, % passing reading, and % overall passing. 
 
 - The original district summary results below shows that the averages were overall higher before it was effected by the ninth graders of THS being taken out of the data. 
 
